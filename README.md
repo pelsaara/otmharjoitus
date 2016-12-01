@@ -9,3 +9,5 @@ As Kanye West said:
 Tämä on jo jotain 
 
 [Linkki käyttöohjeisiin!](https://github.com/pelsaara/otmharjoitus/blob/master/dokumentointi/kaytto-ohje.md)
+[Linkki määrittelydokumenttiin](https://github.com/pelsaara/otmharjoitus/blob/master/dokumentointi/maarittelydokumentti.md)
+
