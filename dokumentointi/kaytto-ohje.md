@@ -1,3 +1,3 @@
-Jerry on kakka
+Jerry on välillä vähän tyhmä
 
-Jerry nuuskaa. Hyi.
+Melkeen hävettää 
