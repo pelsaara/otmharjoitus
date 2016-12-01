@@ -1,3 +1,3 @@
 Jerry on välillä vähän tyhmä
 
-Melkeen hävettää 
+Melkeen hävettää, ei siis Jerry vaan omat käytöstapani.
